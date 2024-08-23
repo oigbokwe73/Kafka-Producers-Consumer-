@@ -15,7 +15,7 @@ An e-commerce platform wants to implement a real-time order processing system wh
 
 ### Sequence Diagram
 
-Here's a Mermaid sequence diagram illustrating the flow of the order processing system:
+Here's a sequence diagram illustrating the flow of the order processing system:
 
 ```mermaid
 sequenceDiagram
@@ -72,7 +72,7 @@ sequenceDiagram
 
 This setup ensures that the order processing system is robust, scalable, and capable of handling real-time order events efficiently.
 
-Here's a Mermaid sequence diagram illustrating the interaction between a Kafka Producer, Kafka running in KRaft mode (no Zookeeper), Topics, Partitions, Offsets, and Consumers:
+Here's a sequence diagram illustrating the interaction between a Kafka Producer, Kafka running in KRaft mode (no Zookeeper), Topics, Partitions, Offsets, and Consumers:
 
 ```mermaid
 sequenceDiagram
